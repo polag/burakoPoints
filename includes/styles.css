@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.players{
+    max-width: 200px;
+    padding-bottom: 20px;
+}
+.row {
+    margin: auto;
+}
+
+.points{
+    max-width: 200px;
+    margin: auto;
+}
